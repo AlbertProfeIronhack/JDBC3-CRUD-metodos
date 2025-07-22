@@ -49,7 +49,7 @@ public class GestorVj {
                         salir = true;
                         break;
                     default:
-                        break;
+                        System.out.println("debes escribir un número entre 1 y 5");
                 }
 
             }
